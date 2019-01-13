@@ -1,8 +1,8 @@
-# jroehl business card
+# :pencil2: jroehl business card
 
-This is my shiny npx business card
+This is my shiny npx business card :sparkles:
 
-- [jroehl business card](#jroehl-business-card)
+- [:pencil2: jroehl business card](#pencil2-jroehl-business-card)
   - [Usage](#usage)
 
 ## Usage
